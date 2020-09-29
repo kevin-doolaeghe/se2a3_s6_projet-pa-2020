@@ -1,0 +1,5 @@
+global particullate_matter
+daily 2014-8-3 nitrogen_dioxide
+monthly 2014-8 carbon_monoxide
+daily 2014-8-2 sulfure_dioxide 10.104 56.231 1000
+log 2014-8-1 0:5:0 ozone
